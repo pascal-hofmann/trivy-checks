@@ -6,7 +6,7 @@ toolchain go1.22.2
 
 require (
 	github.com/aquasecurity/trivy v0.52.1-0.20240619054236-36b3b772df21
-	github.com/docker/docker v26.1.3+incompatible
+	github.com/docker/docker v27.1.2+incompatible
 	github.com/liamg/iamgo v0.0.9
 	github.com/liamg/memoryfs v1.6.0
 	github.com/open-policy-agent/opa v0.67.0
@@ -114,6 +114,7 @@ require (
 	github.com/moby/patternmatcher v0.6.0 // indirect
 	github.com/moby/sys/sequential v0.5.0 // indirect
 	github.com/moby/sys/user v0.1.0 // indirect
+	github.com/moby/sys/userns v0.1.0 // indirect
 	github.com/moby/term v0.5.0 // indirect
 	github.com/morikuni/aec v1.0.0 // indirect
 	github.com/olekukonko/tablewriter v0.0.5 // indirect
